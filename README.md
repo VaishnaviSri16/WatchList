@@ -49,8 +49,8 @@ kotlin const val API_KEY = "YOUR_TMDB_API_KEY_HERE"
 ## 📸 UI Preview
 
 | Home Screen | Add New Entry |
-|  <img width="200" height="350" alt="home" src="https://github.com/user-attachments/assets/53f6960f-d6d2-4242-9e19-8e84b6f9f620" />
-| <img width="200" height="350" alt="add new entry" src="https://github.com/user-attachments/assets/4bf99f50-5d19-4a44-8713-11f166511509" />
+|  <img width="400" height="350" alt="home" src="https://github.com/user-attachments/assets/53f6960f-d6d2-4242-9e19-8e84b6f9f620" />
+| <img width="400" height="350" alt="add new entry" src="https://github.com/user-attachments/assets/4bf99f50-5d19-4a44-8713-11f166511509" />
  |
 | ![Home](https://via.placeholder.com/300x600?text=Midnight+Cinema+Home) | ![Add](https://via.placeholder.com/300x600?text=Premium+Add+Screen) |
 
