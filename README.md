@@ -36,12 +36,9 @@
 
 ### Installation
 1. Clone the repository:
-2. Open the project in Android Studio.
-3. Navigate to com.example.watchlist.data.network.RetrofitInstance.
-4. Replace API_KEY with your personal TMDB API key:
-5. Open the project in **Android Studio**.
-6. Navigate to `com.example.watchlist.data.network.RetrofitInstance`.
-7. Replace `API_KEY` with your personal TMDB API key:
+2. Open the project in **Android Studio**.
+3. Navigate to `com.example.watchlist.data.network.RetrofitInstance`.
+4. Replace `API_KEY` with your personal TMDB API key:
 kotlin const val API_KEY = "YOUR_TMDB_API_KEY_HERE"
 5. Sync Gradle and run the app on an emulator or physical device.
 
